@@ -1,0 +1,9 @@
+{
+  "name": "realtimechat-backend",
+  "version": "1.0.0",
+  "description": "Training for a real time chat with nodejs & reactjs",
+  "main": "app.js",
+  "repository": "https://github.com/MonokiniNeko/realtimechat-backend/",
+  "author": "MonokiniNeko <halasz.gwenael@gmail.com>",
+  "license": "MIT"
+}
